@@ -1,0 +1,3 @@
+This is my first attempt to create a repository on Github.
+The game is very simple. One has to move the mouse within the maze generated.
+This is simply a test...
